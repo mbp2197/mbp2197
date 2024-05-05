@@ -7,7 +7,6 @@ Software Developer
 I am a computer vision software developer with experience in Artificial Intelligence, Robotics and Mechatronics.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [milindpatel2197@gmail.com](mailto:milindpatel2197@gmail.com)
 * 🤝  I'm open to collaborating on Computer Vision, Image Processing, Robotics, AI/ML or related projects.
 
 <a href="https://www.github.com/mbp2197" target="_blank" rel="noreferrer"><img
